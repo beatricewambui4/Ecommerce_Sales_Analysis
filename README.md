@@ -147,7 +147,7 @@ Screenshots/page1_kpi_trends_overview.png
 
 ### Annual Growth Analysis
 ![Annual Growth](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Annual_Growth_Analysis.png)
-
+https://github.com/beatricewambui4/Ecommerce_Sales_Analysis/blob/main/Screenshots/Annual_Growth_Analysis.png
 ---
 
 ### Temporal Sales Analysis
