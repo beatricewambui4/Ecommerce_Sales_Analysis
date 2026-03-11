@@ -91,13 +91,20 @@ ecommerce-sales-analysis/
 5. Expand Technology product range
 6. Develop Corporate segment with account management
 
-## Dashboard Screenshots
-### Page 1 – KPI AND Trends Overview
- 
+## 📊 Dashboard Screenshots
 
-### Page 2 - Growth & Strategy
- 
+### Page 1 – KPI AND Trends Overview
+![Page 1 KPI and Trends](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Page%201%20%E2%80%93%20KPI%20AND%20Trends%20Overview.PNG)
+
+---
+
+### Page 2 – Growth & Strategy
+![Page 2 Growth and Strategy](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Page%202%20-%20Growth%20%26%20Strategy.PNG)
+
+---
+
 ### Page 3 – Analysis and Recommendations
+![Page 3 Analysis and Recommendations](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Page%203%20%E2%80%93%20Analysis%20and%20Recommendations.PNG)
  
 
 ## Author
