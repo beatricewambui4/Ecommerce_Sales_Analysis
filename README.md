@@ -146,6 +146,7 @@ ecommerce-sales-analysis/
 Beatrice Wambui
 Data Analyst  
 https://www.linkedin.com/in/beatrice-wakonyo-tech/
+---
 https://github.com/beatricewambui4/
 
 
