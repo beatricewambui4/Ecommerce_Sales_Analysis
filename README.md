@@ -94,70 +94,53 @@ ecommerce-sales-analysis/
 ## 📊 Dashboard Screenshots
 
 ### Page 1 – KPI AND Trends Overview
-![Page 1 KPI and Trends](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Page%201%20%E2%80%93%20KPI%20AND%20Trends%20Overview.PNG)
-Screenshots/page1_kpi_trends_overview.png
+![Page 1](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/page1_kpi_trends_overview.png)
 
 ---
 
 ### Page 2 – Growth & Strategy
-![Page 2 Growth and Strategy](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Page%202%20-%20Growth%20%26%20Strategy.PNG)
+![Page 2](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/page2_growth_strategy.png)
 
 ---
 
 ### Page 3 – Analysis and Recommendations
-![Page 3 Analysis and Recommendations](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Page%203%20%E2%80%93%20Analysis%20and%20Recommendations.PNG)
-
-
-## 📊 Dashboard Screenshots
-
-### Page 1 – KPI AND Trends Overview
-![Page 1](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/page1_kpi_trends_overview.png)
+![Page 3](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/page3_analysis_recommendations.png)
 
 ---
 
-### Page 2 – Growth & Strategy
-![Page 2](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/page2_growth_strategy.png)
+### 📈 Annual Growth Analysis
+![Annual Growth](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/Annual_Growth_Analysis.png)
 
 ---
 
-### Page 3 – Analysis and Recommendations
-![Page 3](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/page3_analysis_recommendations.png)
+### 👥 Customer Segment Performance
+![Customer Segment](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/Customer_Segment_Performance.png)
 
 ---
 
-### KPI Summary
-![KPI Summary](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/KPI'S.png)
+### 🎯 KPI Summary
+![KPI Summary](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/KPI'S.png)
 
 ---
 
-### Product Category Analysis
-![Product Category](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Product_Category_Analysis.png)
+### 🛍️ Product Category Analysis
+![Product Category](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/Product_Category_Analysis.png)
 
 ---
 
-### Regional & City Analysis
-![Regional City](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Regional_City_Analysis.png)
+### 🗺️ Regional & City Analysis
+![Regional City](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/Regional_City_Analysis.png)
 
 ---
 
-### Regional Sales Performance
-![Regional Sales](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Regional_Sales_Performance.png)
+### 🌍 Regional Sales Performance
+![Regional Sales](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/Regional_Sales_Performance.png)
 
 ---
 
-### Annual Growth Analysis
-![Annual Growth](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Annual_Growth_Analysis.png)
-https://github.com/beatricewambui4/Ecommerce_Sales_Analysis/blob/main/Screenshots/Annual_Growth_Analysis.png
----
-
-### Temporal Sales Analysis
-![Temporal Sales](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Temporal_Sales_Analysis.png)
-
----
-
-### Customer Segment Performance
-![Customer Segment](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Customer_Segment_Performance.png)
- 
+### 📅 Temporal Sales Analysis
+![Temporal Sales](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/Screenshots/Temporal_Sales_Analysis.png)
+```
 
 ## Author
 Beatrice Wambui
