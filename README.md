@@ -95,6 +95,7 @@ ecommerce-sales-analysis/
 
 ### Page 1 – KPI AND Trends Overview
 ![Page 1 KPI and Trends](https://raw.githubusercontent.com/beatricewambui4/Ecommerce_Sales_Analysis/main/screenshots/Page%201%20%E2%80%93%20KPI%20AND%20Trends%20Overview.PNG)
+Screenshots/page1_kpi_trends_overview.png
 
 ---
 
